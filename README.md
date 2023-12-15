@@ -1,5 +1,5 @@
 # Installation
-## Using Colab
+## Using Colab (optional)
 link: https://github.com/scg-wedo-iot/training-yolov5
 
 ## Create Python environment
