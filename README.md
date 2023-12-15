@@ -1,4 +1,7 @@
 # Installation
+## Using Colab
+link: https://github.com/scg-wedo-iot/training-yolov5
+
 ## Create Python environment
 Using python venv
 >python -m venv c:\user\venv\train-yolov5
